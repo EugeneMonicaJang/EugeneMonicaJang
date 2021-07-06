@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EugeneMonicaJang !
-- 👀 I’m interested in google. :>
+- 👀 I’m interested in AI, Brain science
 - 🌱 I’m currently learning Python, C, C+, etc...
-- 💞️ I’m looking to collaborate on googlg. X)
+- 💞️ I’m looking to collaborate on anybody.
 - 📫 How to reach me ...
 
 <!---
